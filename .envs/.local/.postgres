@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=sarkasmus
+POSTGRES_USER=VDwiVlEqbgncXWrOJmGtYjdtunZBnJcr
+POSTGRES_PASSWORD=2UKcG4iEL9lS9ESuEg0CTtJXCZHuj2LLy8T3f98J3xVpIukYTPo2dFuJ6bDLO3Gj
